@@ -1,0 +1,22 @@
+h4.card-text
+{
+	height:120px;
+	color: orange;
+}
+{
+	float: left;
+	width: 15%;
+	background-color: lightgrey;
+	padding:5px;
+}
+img
+{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 80%;
+}
+a h4
+{
+	text-align: center;
+}
